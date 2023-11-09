@@ -42,7 +42,7 @@ Você foi contratado por uma startup fictícia chamada "QuickNotes". A QuickNote
 * Tente fazer o máximo do solicitado. se não conseguiu implementar algo, mesmo assim entregue seu projeto e iremos analisar.
 
 ## No mais..
-o finalizar o teste, subir em um reposítorio do github privado e compartilhar com o user grazianilog do github. Após compartilhar enviar a URL do repositório para o e-mail graziani@logmangaer.com.br
+Ao finalizar o teste, subir em um reposítorio do github privado e compartilhar com o user grazianilog do github. Após compartilhar enviar a URL do repositório para o e-mail graziani@logmangaer.com.br
 
 ---------
 
